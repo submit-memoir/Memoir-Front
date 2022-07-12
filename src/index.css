@@ -1,0 +1,11 @@
+.container {
+  display: flex;
+  justify-content: space-between;
+  width: 70%;
+  margin: 0 auto;
+  margin-top: 1rem;
+}
+.logo {
+  font-size: 1.5rem;
+  font-family: "Happy Monkey";
+}
