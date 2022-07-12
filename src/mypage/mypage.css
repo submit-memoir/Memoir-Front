@@ -1,0 +1,23 @@
+.container {
+  display: flex;
+  justify-content: space-between;
+  width: 70%;
+  margin: 0 auto;
+  margin-top: 1rem;
+}
+
+.logo {
+  font-size: 1.5rem;
+  font-family: "Happy Monkey";
+}
+
+.logoutButton {
+  background-color: white;
+  border-radius: 30px;
+  border: solid 1px #cdcdcd;
+  width: 80px;
+  height: 35px;
+  font-size: 14px;
+  font-weight: bold;
+  cursor: pointer;
+}
