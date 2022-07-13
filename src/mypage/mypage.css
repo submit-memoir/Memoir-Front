@@ -21,3 +21,22 @@
   font-weight: bold;
   cursor: pointer;
 }
+
+.mypage {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  flex-direction: column;
+  margin-top: 5rem;
+}
+
+.name {
+  margin-bottom: 0;
+}
+
+.id {
+  margin: 0;
+  font-size: 24px;
+  font-weight: 300;
+  color: #6b6b6b;
+}
