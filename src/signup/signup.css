@@ -1,0 +1,60 @@
+.container {
+    display: flex;
+    justify-content: space-between;
+    width: 70%;
+    margin: 0 auto;
+    margin-top: 16px;
+  }
+  .logo {
+    font-size: 24px;
+    font-family: "Happy Monkey";
+  }
+  .signup {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+    height: 70%;
+    margin-top: 128px;
+  }
+  .login{
+    font-size: 12px;
+    color: black;
+    text-decoration: none;
+  }
+  .title {
+    font-size: 20px;
+    font-weight: bold;
+  }
+  .id {
+    margin-top: 32px;
+    font-size: 16px;
+  }
+  .password {
+    margin-top: 8px;
+    font-size: 16px;
+  }
+  .nickname {
+    margin-top: 8px;
+    font-size: 16px;
+  }
+  button {
+    width: 300px;
+    height: 32px;
+    border-radius: 10px;
+    border: solid 2px #4f60ff;
+    background: white;
+    color: #4f60ff;
+    margin-top: 48px;
+    cursor: pointer;
+  }
+  input {
+    width: 300px;
+    height: 32px;
+    border-radius: 10px;
+    outline: none;
+    border: solid 2px black;
+    padding: 4px;
+    font-size: 16px;
+  }
+  
